@@ -11,11 +11,23 @@ Comment on this issue, if you'd like to see that happen:
 * [Download links broken #222](https://github.com/rakyll/hey/issues/222)
 * [Anonymous caller does not have storage.objects.get access to the Google Cloud Storage object #229](https://github.com/rakyll/hey/issues/229)
 
-Want to download a binary? Head over to the releases page for Linux or MacOS for Intel AMD, 32-bit ARM and ARM64? Or for 64-bit Windows?
+Want to download a binary? Head over to the releases page.
 
-* [View the releases](https://github.com/alexellis/hey/releases)
+Linux:
+* 32-bit ARM, 64-bit ARM, 64-bit Intel/AMD
+
+MacOS/Darwin:
+* 64-bit Intel/AMD
+* 64-bit ARM (M1)
+
+Windows:
+* 64-bit Intel/AMD
+
+[View the releases here](https://github.com/alexellis/hey/releases)
 
 ## License
+
+Want to use this solution to build other Go projects on GitHub? Please Go ahead, fork the repo or copy the files, and please add a credit and link back to me.
 
 Copyright 2022 Alex Ellis, OpenFaaS Ltd
 
