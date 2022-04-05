@@ -1,4 +1,4 @@
-# tc-tap-redirect-builder
+# hey builder
 
 [![build](https://github.com/alexellis/hey/actions/workflows/build.yml/badge.svg)](https://github.com/alexellis/hey/actions/workflows/build.yml) ![Downloads](https://img.shields.io/github/downloads/alexellis/hey/total)
 
